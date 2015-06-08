@@ -16,3 +16,7 @@ I would be happy if you put a link to http://www.lingulo.com somewhere on your w
 <ul>
 <li>Find images for the jQuery Slider from http://www.open-image.net and for all the icons (the icons used in the tutorial are from http://www.iconarchive.com/show/icons8-metro-style-icons-by-visualpharm.1.html) or even better use a font like FontAwesome for the icons</li>
 <li>To minimize the amount of HTTP requests combine all CSS files into one single file</li></ul>
+
+Gegenüber der Ausgangsfassung wurden vor allem die Bilder ergänzt.
+
+Anzumerken ist, dass die Lightbox nicht responsiv ist.
