@@ -19,4 +19,4 @@ I would be happy if you put a link to http://www.lingulo.com somewhere on your w
 
 Gegenüber der Ausgangsfassung wurden vor allem die Bilder ergänzt.
 
-Anzumerken ist, dass die Lightbox nicht responsiv ist.
+Anzumerken ist, dass die Lightbox nicht responsiv ist. Hier könnte aber die sogenannte ImageLightbox auf <http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/> eine sinnvolle Alternative sein, denn diese Lightbox-Varainte ist responsiv.
